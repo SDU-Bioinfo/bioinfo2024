@@ -21,7 +21,7 @@ all the query-candidate pairs.
 
 #### query.lst ####
 
-This input file contains 1024 protein structures filepath that are to be used as queries.
+This input file contains 1024 protein structure' filepaths that are to be used as queries.
 Your program should take the file (in the same format but with different data)
 as input and return up to 12 proteins that are similar to each query protein.
 
